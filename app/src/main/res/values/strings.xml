@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vortex_Baru</string>
+    <string name="title_activity_welcome_screen">Welcome_Screen</string>
+    <string name="welcometext">Selamat datang di\nFood to Go!</string>
+    <string name="welcometext_2">Begabung bersama Food to Go sekarang</string>
+
+
+</resources>
